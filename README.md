@@ -75,8 +75,16 @@ Displays a list of transactions with details such as date, description, amount, 
 ### Header
 Displays the app's header with the title and other relevant information.
 
+
 ## ThemeContext
 The `ThemeContext` provides the current theme (light or dark) to all components in the app, allowing for consistent theming throughout.
 
 ## Assets
 The `assets` directory contains images used in the app, including icons for actions and navigation, and images for cards.
+
+## Screenshots
+
+![Screenshot (20)](https://github.com/schooltech1/rn-assignment5-1135857/assets/170237696/9e78ffca-d255-4f6e-b16c-65ba39ebcb8f)
+![Screenshot (21)](https://github.com/schooltech1/rn-assignment5-1135857/assets/170237696/4e921af1-77de-40ce-b925-e5083dc7ba73)
+![Screenshot (22)](https://github.com/schooltech1/rn-assignment5-1135857/assets/170237696/f4f01afc-8330-4b84-ae64-0c9321a35ae9)
+![Screenshot (23)](https://github.com/schooltech1/rn-assignment5-1135857/assets/170237696/c8175044-45c6-4b63-bd0a-25839a8835c0)
