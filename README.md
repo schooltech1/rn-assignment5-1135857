@@ -26,7 +26,7 @@ MyReactNativeApp is a mobile application built with React Native that facilitate
     ```
 2. Navigate to the project directory:
     ```bash
-    cd MyReactNativeApp
+    cd my-app
     ```
 3. Install dependencies:
     ```bash
