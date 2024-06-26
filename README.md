@@ -1,5 +1,5 @@
 # rn-assignment5-1135857
-# MyReactNativeApp
+# My-app
 
 ## Description
 MyReactNativeApp is a mobile application built with React Native that facilitates financial management. It provides users with tools to view cards, perform money transactions, manage loans, and track transaction history. The app supports both light and dark themes for enhanced user experience.
@@ -22,7 +22,7 @@ MyReactNativeApp is a mobile application built with React Native that facilitate
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/MyReactNativeApp.git
+   git clone https://github.com/schooltech1/rn-assignment5-1135857.git
     ```
 2. Navigate to the project directory:
     ```bash
